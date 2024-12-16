@@ -1,1 +1,14 @@
+joblib==1.3.2
+pandas==1.4.2
+numpy==1.26.2
+scikit-learn==1.1.3
 streamlit
+matplotlib
+nltk
+wordcloud
+regex
+openpyxl
+requests
+sentence-transformers
+transformers
+tensorflow==2.8.0
